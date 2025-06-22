@@ -7,16 +7,23 @@ This Python script performs several analytical steps and generates interactive v
 Data Loading & Preprocessing: Loads the Sample - Superstore.csv dataset and cleans/prepares date columns for analysis.
 
 Monthly Sales Analysis: Visualizes the sum of sales over different months using a line chart to identify seasonal trends.
+![MonthlySales Analysis](https://github.com/user-attachments/assets/faec74c7-5531-4d6d-a53b-2062141ec909)
 
 Sales Analysis by Category: Displays the proportion of sales contributed by different product categories using a pie chart.
 
+![Sales analytic by cat](https://github.com/user-attachments/assets/a6bcc548-46fb-40cf-b657-dec1345e6430)
+
 Sales Analysis by Sub-Category: Presents sales performance across various sub-categories using a bar chart.
+![sales anal by subcat](https://github.com/user-attachments/assets/adbe734b-6fef-4e72-985c-d350fd01faa6)
 
 Monthly Profit Analysis: Analyzes profit trends over different months with a line chart, similar to sales.
+![monthly profit](https://github.com/user-attachments/assets/551a9333-c45c-498b-86e7-cf5d823d531e)
 
 Profit Analysis by Category: Shows the distribution of profit across different product categories using a pie chart.
+![profit by cat](https://github.com/user-attachments/assets/cb4c7efe-0afb-4ca9-b4f1-97efd4f14f18)
 
 Sales & Profit by Customer Segment: Compares total sales and profit generated from different customer segments using a grouped bar chart.
+![profit and sales by segment](https://github.com/user-attachments/assets/97b9bab7-5858-4986-b8cd-084b99a053bd)
 
 Sales-to-Profit Ratio by Segment: Calculates and prints the ratio of sales to profit for each customer segment, highlighting efficiency.
 
